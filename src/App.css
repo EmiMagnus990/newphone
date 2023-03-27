@@ -1,0 +1,14 @@
+.carrito{
+    color:white;
+}
+
+.numeroCarrito{
+    font-size: 0.80rem;
+    background-color:darkblue;
+    border-radius: 1rem;
+    position: absolute;
+    top: 1rem;
+    right: 8.5rem;
+    color: white;
+    text-decoration: none;
+}
